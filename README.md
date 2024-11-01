@@ -8,7 +8,7 @@ This is a web-based application designed to help players solve the main quest fo
 
 I created this as a fun and accessible way to introduce young folks to algorithms and programming. The puzzle’s simple logic and straightforward calculations make it ideal for coding in various languages, providing a hands-on introduction to core programming concepts.
 
-I’ll be adding a few forks of this project to showcase implementations in different languages. These can be used as an introduction for courses or personal projects.
+I’ll be adding a few branches of this project to showcase implementations in different languages. These can be used as an introduction for courses or personal projects.
 
 ## Features
 
