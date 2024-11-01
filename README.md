@@ -37,7 +37,7 @@ The app calculates three specific expressions based on values assigned to variab
 3. **Line 3**: `(Y + Z) - X`
    - This formula adds **Y** and **Z** together, then subtracts **X**.
 
-Each result is displayed as the absolute value to ensure positive numbers.
+Each result is displayed as the absolute value to ensure positive numbers, as negatives cannot be input in the puzzle we're solving.
 
 ### Example Calculation
 
@@ -47,6 +47,19 @@ If **X** = 10, **Y** = 20, and **Z** = 5:
 - **Line 2**: `(2(5) + 20) - 5 = 25`
 - **Line 3**: `(20 + 5) - 10 = 15`
 
-The results would display as:
+The results would display as: 
+
+- Code: 31 ; 25 ; 15
+
+## Modifying Symbol Values
+
+If the values associated with the symbols change, update the `symbols` array in the JavaScript section:
+
+```javascript
+const symbols = ['new_value1', 'new_value2', 'new_value3', 'new_value4', 'new_value5', 'new_value6'];
+```
+
+Make sure that the PNG file names match the values in the symbols array to ensure accurate calculations.
+
 
 
