@@ -69,9 +69,9 @@ Make sure that the PNG file names match the values in the symbols array to ensur
 
 ## Puzzle Explanation
 
-![Terminus Quest Solver Screenshot](screenshots/Terminus.png) 
-
 In-game, this puzzle involves decoding a set of three equations using values associated with symbols on sticky notes. Here’s how it works:
+
+![Terminus Quest Solver Screenshot](screenshots/Terminus.png) 
 
 1. **Right Whiteboard (Equations)**:
    - The right whiteboard displays three equations labeled `1`, `2`, and `3`.
