@@ -5,7 +5,7 @@ Black Ops 6: Zombies - Terminus - Main Quest SOLVER
 
 This is a web-based application designed to help players solve the main quest for the Zombies mode in "Black Ops 6." It computes values based on selected symbols and provides results in real-time. 
 
-![Terminus Quest Solver Screenshot](screenshot.png) <!-- Add a screenshot of the app if you like -->
+![Terminus Quest Solver Screenshot](screenshots/Screenshot_1.png) 
 
 ## Features
 
