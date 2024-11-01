@@ -4,6 +4,12 @@ This is a web-based application designed to help players solve the main quest fo
 
 ![Terminus Quest Solver Screenshot](screenshots/Screenshot_1.png) 
 
+### Introduction
+
+I created this as a fun and accessible way to introduce young folks to algorithms and programming. The puzzle’s simple logic and straightforward calculations make it ideal for coding in various languages, providing a hands-on introduction to core programming concepts.
+
+I’ll be creating a few forks of this project to showcase implementations in different languages. These can be used as an introduction for courses or personal projects. If you’re looking to explore programming fundamentals, feel free to check out the forks on how this puzzle can be approached across multiple languages!
+
 ## Features
 
 - **Real-time Calculation**: Results are computed instantly as you select symbols for X, Y, and Z.
