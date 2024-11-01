@@ -4,6 +4,10 @@ This is a web-based application designed to help players solve the main quest fo
 
 ![Terminus Quest Solver Screenshot](screenshots/Screenshot_1.png) 
 
+### Live Website
+
+Test this code on my website ! [BO6_Beamsmasher]([https://pages.github.com/](https://clement.business/BO6_Beamsmasher/)).
+
 ### Introduction
 
 I created this as a fun and accessible way to introduce young folks to algorithms and programming. The puzzle’s simple logic and straightforward calculations make it ideal for coding in various languages, providing a hands-on introduction to core programming concepts.
