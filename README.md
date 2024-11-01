@@ -6,7 +6,7 @@ This is a web-based application designed to help players solve the main quest fo
 
 ### Live Website
 
-Test this code on my website ! [GitHub Pages](https://clement.business/BO6_Beamsmasher/).
+Test this code on my website : [BO6_Beamsmasher](https://clement.business/BO6_Beamsmasher/).
 
 ### Introduction
 
