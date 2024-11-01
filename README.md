@@ -20,7 +20,7 @@ This is a web-based application designed to help players solve the main quest fo
    - Open the HTML file (`index.html`) in a web browser. It’s compatible with most modern browsers and is responsive for mobile devices.
 
 3. **Use the Application**:
-   - Select symbols for X, Y, and Z by clicking on the images. The app will automatically compute and display the results in the "Code" table.
+   - Select symbols for X, Y, and Z by clicking on the images. The app will automatically compute and display the results.
 
 ## Math Behind the Solver
 
