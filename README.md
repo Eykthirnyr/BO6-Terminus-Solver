@@ -104,8 +104,6 @@ In-game, this puzzle involves decoding a set of three equations using values ass
 5. **Entering the Solution**:
    - After solving all three equations, input each result in the correct order into the computer.
 
-By decoding symbols into numeric values and then solving the equations, this puzzle serves as a great introduction to problem-solving and basic algorithms.
-
 
 
 
